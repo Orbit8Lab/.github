@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Orbit8 Lab" width="120">
+<img src="assets/logo.jpg" alt="Orbit8 Lab" width="120">
 
 # Orbit8 Lab
 
